@@ -20,7 +20,7 @@ Computer Science student passionate about Data Engineering. Always exploring the
 ### 💬 Let's Chat About
 - Python data wrangling & database optimization.
 - Systems engineering and sustainable design frameworks.
-- Local food spots and finding the best pizza crust in town.
+- Fun games to play.
 
 ---
 *⚡ Fun Fact:* I love reading novels and playing mlbb, simultaneously.
