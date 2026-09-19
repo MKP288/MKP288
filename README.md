@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Marc Keanne 👋
 
-<!--
-**MKP288/MKP288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about Data Engineering. Always exploring the intersection of practical code, formal logic, and real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m Up To
+- 💻 Building projects focused on data analysis/science/engineering.
+- 📐 Exploring formal methods, computational logic, and clean software architecture.
+
+---
+
+### 🌱 Currently Learning
+- Deepening my data analysis pipelines with Python & Pandas.
+- Working with containerized database environments (Docker + SQL Server).
+- Applying calculational proofs and formal verification to program design.
+
+---
+
+### 💬 Let's Chat About
+- Python data wrangling & database optimization.
+- Systems engineering and sustainable design frameworks.
+- Local food spots and finding the best pizza crust in town.
+
+---
+*⚡ Fun Fact:* I love reading novels and playing mlbb, simultaneously.
